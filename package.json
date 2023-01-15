@@ -1,0 +1,23 @@
+{
+  "name": "proyectoasync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagobonilla14/proyectoasync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagobonilla14/proyectoasync/issues"
+  },
+  "homepage": "https://github.com/santiagobonilla14/proyectoasync#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
